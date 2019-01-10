@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+body
+{
+	background-image: url(b.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	font-size: 24;
+
+
+}
+p
+{
+	color: yellow;
+
+}
+

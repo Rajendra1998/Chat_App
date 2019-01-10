@@ -1,0 +1,18 @@
+[2018-11-22 16:33:15.786] [exthost1] [info] extension host started
+[2018-11-22 16:33:15.807] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-11-22 16:33:15.807] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\rajendra\.codemix\engine\resources\app\extensions\emmet\out\extension
+[2018-11-22 16:33:19.033] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-11-22 16:33:19.033] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\rajendra\.codemix\engine\resources\app\extensions\git\out\main
+[2018-11-22 16:33:22.156] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-11-22 16:33:22.156] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\rajendra\.codemix\engine\resources\app\extensions\merge-conflict\out\extension
+[2018-11-22 16:33:22.469] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2018-11-22 16:33:22.469] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\rajendra\.codemix\engine\resources\app\extensions\search-rg\out\extension
+[2018-11-22 16:33:22.548] [exthost1] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"activationEvent":"*"}
+[2018-11-22 16:33:22.548] [exthost1] [info] ExtensionService#loadCommonJSModule C:\Users\rajendra\.vscode\extensions\formulahendry.auto-close-tag-0.5.6\out\src\extension
+[2018-11-22 16:33:22.565] [exthost1] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"activationEvent":"*"}
+[2018-11-22 16:33:22.565] [exthost1] [info] ExtensionService#loadCommonJSModule C:\Users\rajendra\.vscode\extensions\hookyqr.beautify-1.3.0\extension
+[2018-11-22 16:33:22.892] [exthost1] [info] eager extensions activated
+[2018-11-22 16:33:22.895] [exthost1] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-11-22 16:33:22.895] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\rajendra\.codemix\engine\resources\app\extensions\configuration-editing\out\extension
+[2018-11-22 16:33:23.127] [exthost1] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-11-22 16:33:23.127] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\rajendra\.codemix\engine\resources\app\extensions\json-language-features\client\out\jsonMain
